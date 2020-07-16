@@ -4,7 +4,7 @@ def new_hash
 end
 
 def my_hash
-  hash.new
+{:color => "blue", :shape => "square"}
 end
 
 def pioneer

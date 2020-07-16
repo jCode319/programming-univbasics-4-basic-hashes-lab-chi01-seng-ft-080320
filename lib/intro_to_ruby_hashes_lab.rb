@@ -4,7 +4,7 @@ def new_hash
 end
 
 def my_hash
-{key, value}
+  hash.new
 end
 
 def pioneer
